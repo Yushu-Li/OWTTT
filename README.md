@@ -7,8 +7,11 @@ This repository is an official implementation for our [ICCV 2023 Oral] paper.
 **[Yushu Li](https://yushu-li.github.io/)<sup>1</sup>** &nbsp; **[Xun Xu](https://alex-xun-xu.github.io/)<sup>2</sup>** &nbsp; **[Yongyi Su](https://yysu.site/)<sup>1</sup>** &nbsp;  **[Kui Jia](http://kuijia.site/)<sup>1</sup>**
 <br>
 <sup>1</sup>South China University of Technology &nbsp; 
-<br><sup>2</sup>Institute for Infocomm Research (I2R), Agency for Science, Techny and Research (A*STAR)
+<br><sup>2</sup>Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR)
 <br>
+
+[![arXiv preprint](http://img.shields.io/badge/arXiv-2308.09942-b31b1b)](https://arxiv.org/abs/2308.09942)
+[![Project Page](http://img.shields.io/badge/Project%20Page-OWTTT-brightgreen)](https://yushu-li.github.io/2023_LiEtAl_OWTTT/)
 
 
 ### Overview
