@@ -11,7 +11,7 @@ This repository is an official implementation for our [ICCV 2023 Oral] paper.
 <br>
 
 [![arXiv preprint](http://img.shields.io/badge/arXiv-2308.09942-b31b1b)](https://arxiv.org/abs/2308.09942)
-[![Project Page](http://img.shields.io/badge/Project%20Page-OWTTT-brightgreen)](https://yushu-li.github.io/2023_LiEtAl_OWTTT/)
+[![Project Page](http://img.shields.io/badge/Project%20Page-OWTTT-brightgreen)](https://yushu-li.github.io/owttt-site/)
 
 
 ### Overview
