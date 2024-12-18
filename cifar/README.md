@@ -30,9 +30,9 @@ The checkpoints of pre-train Resnet-50 can be downloaded (214MB) using the follo
 
 ```
 mkdir -p results/cifar10_joint_resnet50 && cd results/cifar10_joint_resnet50
-gdown https://drive.google.com/uc?id=1TWiFJY_q5uKvNr9x3Z4CiK2w9Giqk9Dx && cd ../..
+gdown https://drive.google.com/uc?id=1QWyI8UrXJ6_H9lBbrq52qXWpjdpq4PUn && cd ../..
 mkdir -p results/cifar100_joint_resnet50 && cd results/cifar100_joint_resnet50
-gdown https://drive.google.com/uc?id=1-8KNUXXVzJIPvao-GxMp2DiArYU9NBRs && cd ../..
+gdown https://drive.google.com/uc?id=1cau93HVjl4aWuZlrl7cJIMEKBxXXunR9 && cd ../..
 ```
 
 These models are obtained by training on the clean CIFAR10/100 images using semi-supervised SimCLR.
